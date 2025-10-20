@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🎓 I'm a Computer Engineer @Ryerson University (TMU)</h5>
+<h5 align="left">🎓 I'm a Computer Engineer Student @Ryerson University (TMU)</h5>
 
 ###
 
