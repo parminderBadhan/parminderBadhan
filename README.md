@@ -13,8 +13,14 @@
 <p align="center">
   <a href="https://parminderbadhan.vercel.app/" target="_blank">
     <img src="https://api.microlink.io/?url=https://parminderbadhan.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" 
-         width="700" />
+         alt="Website Preview"
+         width="500"
+         style="border-radius: 12px;" />
   </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://parminderbadhan.vercel.app/" target="_blank"><strong>Visit My Website</strong></a>
 </p>
 
 ###
