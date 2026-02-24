@@ -1,10 +1,23 @@
-<h1 align="center">👋Hey, I'm Parminder!</h1>
+<h1 align="center">👋 Hey, I'm Parminder!</h1>
 
 ###
 
 <h5 align="center">
   🎓 I'm a Computer Engineer Student @Ryerson University (TMU)
 </h5>
+
+###
+
+<h3 align="center">🌐 My Portfolio</h3>
+
+<p align="center">
+  <a href="https://parminderbadhan.vercel.app/" target="_blank">
+    <img src="https://api.microlink.io/?url=https://parminderbadhan.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" 
+         alt="Website Preview"
+         width="700"
+         style="border-radius: 12px;" />
+  </a>
+</p>
 
 <p align="center">
   🌐 <a href="https://parminderbadhan.vercel.app/" target="_blank"><strong>Visit My Website</strong></a>
