@@ -10,14 +10,14 @@
 
 <h3 align="center">🌐 My Portfolio</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://parminderbadhan.vercel.app/" target="_blank">
     <img src="https://api.microlink.io/?url=https://parminderbadhan.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" 
          alt="Website Preview"
          width="500"
          style="border-radius: 12px;" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   🌐 <a href="https://parminderbadhan.vercel.app/" target="_blank"><strong>Visit My Website</strong></a>
