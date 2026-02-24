@@ -2,7 +2,13 @@
 
 ###
 
-<h5 align="left">🎓 I'm a Computer Engineer Student @Ryerson University (TMU)</h5>
+<h5 align="center">
+  🎓 I'm a Computer Engineer Student @Ryerson University (TMU)
+</h5>
+
+<p align="center">
+  🌐 <a href="https://parminderbadhan.vercel.app/" target="_blank"><strong>Visit My Website</strong></a>
+</p>
 
 ###
 
@@ -39,5 +45,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
 </div>
-
-
