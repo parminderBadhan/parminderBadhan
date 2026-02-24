@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">🌐 My Portfolio</h3>
+<!-- <h3 align="center">🌐 My Portfolio</h3> -->
 
 <!-- <p align="center">
   <a href="https://parminderbadhan.vercel.app/" target="_blank">
