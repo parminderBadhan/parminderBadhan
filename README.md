@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://parminderbadhan.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&logo=google-chrome" />
+    🌐 Visit My Website
   </a>
 </p>
 
