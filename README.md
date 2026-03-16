@@ -20,7 +20,9 @@
 </p> -->
 
 <p align="center">
-  <a href="https://parminderbadhan.vercel.app/">🌐</a>
+  <a href="https://parminderbadhan.vercel.app/">
+    <img src="https://parminderbadhan.vercel.app/og.png" width="600" alt="Portfolio Preview"/>
+  </a>
 </p>
 
 ###
