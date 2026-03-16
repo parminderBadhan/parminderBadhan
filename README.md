@@ -20,9 +20,7 @@
 </p> -->
 
 <p align="center">
-  <a href="https://parminderbadhan.vercel.app/">
-    🌐 Visit My Website
-  </a>
+  <a href="https://parminderbadhan.vercel.app/">🌐</a>
 </p>
 
 ###
