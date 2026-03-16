@@ -16,7 +16,7 @@
   <a href="https://parminderbadhan.vercel.app/" target="_blank">
     <img src="https://api.microlink.io/?url=https://parminderbadhan.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" 
          alt="Website Preview"
-         width="400" />
+         width="320" />
   </a>
 </p>
 
