@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://parminderbadhan.vercel.app/">
-    <img src="https://your-image-link.com/preview.png" width="600"/>
+    <img src="https://github.com/user-attachments/assets/portfolio-preview.png" width="700"/>
   </a>
 </p>
 
