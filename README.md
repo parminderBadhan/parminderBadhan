@@ -19,11 +19,7 @@
   </a>
 </p> -->
 
-<p align="center">
-  <a href="https://parminderbadhan.vercel.app/">
-    <img src="https://github.com/user-attachments/assets/portfolio-preview.png" width="700"/>
-  </a>
-</p>
+<p align="center"> 🌐 <a href="https://parminderbadhan.vercel.app/" target="_blank"><strong>Visit My Website</strong></a> </p>
 
 ###
 
