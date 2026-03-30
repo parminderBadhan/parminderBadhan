@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://parminderbadhan.vercel.app/" target="_blank">
-    <img src="./preview.png" alt="Website Preview" width="320" />
+    <img src="./preview1.png" alt="Website Preview" width="320" />
   </a>
 </p>
 
